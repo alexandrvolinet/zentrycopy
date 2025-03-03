@@ -1,12 +1,3 @@
-<div align="center">
-
-  <h3 align="center">An Awwwards Winning Website</h3>
-</div>
-
-## ⚠️ Disclaimer
-
-All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - GSAP
